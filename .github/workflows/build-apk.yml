@@ -1,4 +1,4 @@
-name: Build LEVEL UP APK
+name: Build LEVEL UP APK V2
 
 on:
   workflow_dispatch:
